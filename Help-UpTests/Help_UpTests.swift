@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Help_Up
+
 
 class Help_UpTests: XCTestCase {
 
